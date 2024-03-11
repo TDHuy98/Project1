@@ -1,2 +1,4 @@
-package com.intern.project1.services.Iservices;public class LogginService {
+package com.intern.project1.services;
+
+public class LogginService {
 }
