@@ -4,7 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-application-TDHuyLaptop.properties
 ### STS ###
 .apt_generated
 .classpath
@@ -19,6 +18,8 @@ application-TDHuyLaptop.properties
 *.iws
 *.iml
 *.ipr
+application-TDHuyLaptop.properties
+application-test.properties
 
 ### NetBeans ###
 /nbproject/private/
